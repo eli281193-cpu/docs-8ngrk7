@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-q5cll1.nowagercasino.co.uk/sitemap.xml
